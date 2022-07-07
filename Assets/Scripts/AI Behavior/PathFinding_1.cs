@@ -5,8 +5,6 @@ using UnityEngine;
 public class PathFinding_1 : MonoBehaviour
 {
     private Rigidbody2D rb; //main rigidbody
-                            //    public Animator walkAnimator; //animator for implementing walk animations
-    public Animator walkAnimator;
     private Vector2 movement;
     public float moveSpeed;
     public int speed;
